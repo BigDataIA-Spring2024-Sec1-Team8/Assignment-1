@@ -19,13 +19,11 @@ InsightPulse: Amazon's Review Intelligence Hub is designed to transform the way 
 
 https://codelabs-preview.appspot.com/?file_id=1rnGFp5CORcBXbkD6JwqtTrTN_AvWnjQPer9vJ35JCWM#0
 
-WE ATTEST THAT WE HAVEN’T USED ANY OTHER STUDENTS’ WORK IN OUR ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK
-
 ## Authors:
 
 - Sai Durga Mahesh Bandaru
 - Sri Poojitha Mandali
 - Shivani Guglani
 
-
+WE ATTEST THAT WE HAVEN’T USED ANY OTHER STUDENTS’ WORK IN OUR ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK
 
