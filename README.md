@@ -12,16 +12,20 @@ Documentation Link:
 https://codelabs-preview.appspot.com/?file_id=1hg2vigE2ZBsSJypLhKvQIbUi-ULu-gEsbGmKRHC-24Y#0
 
 Usecase 2 Description : InsightPulse - Amazon's Review Intelligence Hub
+
 InsightPulse: Amazon's Review Intelligence Hub is designed to transform the way consumers interact with product reviews on Amazon. The project aims to develop a sophisticated data pipeline for real-time customer behavior analytics, addressing the challenges of information overload, diverse perspectives, and the lack of summarization in existing review systems. This innovative solution will automate the collection and analysis of reviews, employing advanced sentiment analysis algorithms and feature-based summaries to provide users with a clear, concise view of product performance. The architecture integrates data from various sources, including website reviews and email feedback, with a focus on enhancing data quality, consistency, and integration. InsightPulse will enable users to understand customer sentiment, making informed purchasing decisions based quickly and efficiently on a comprehensive understanding of product attributes like quality, appearance, and fit. This project leverages cloud-based services and machine learning techniques to deliver a scalable, efficient, and user-friendly platform that revolutionizes the e-commerce experience.
 
 Documentation Link: 
+
 https://codelabs-preview.appspot.com/?file_id=1rnGFp5CORcBXbkD6JwqtTrTN_AvWnjQPer9vJ35JCWM#0
+
 WE ATTEST THAT WE HAVEN’T USED ANY OTHER STUDENTS’ WORK IN OUR ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK
 
 Authors:
+
 Sai Durga Mahesh Bandaru,
 Sri Poojitha Mandali,
 Shivani Guglani
 
 
-![image](https://github.com/BigDataIA-Spring2024-Sec1-Team8/assignment-1/assets/114782541/f746d0ab-1e87-4ef2-8bc1-1892b8365092)
+
