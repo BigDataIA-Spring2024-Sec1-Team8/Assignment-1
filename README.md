@@ -1,3 +1,8 @@
+Comprehensive Guide for Credit Union Fraud Detection & Amazon Review Intelligence Hub
+
+Overview
+This README combines the details of two distinct projects: Part 1 focuses on the Credit Union Fraud Detection Platform, aiming to harness machine learning techniques to detect and prevent fraudulent activities in financial institutions. Part 2, InsightPulse: Amazon's Review Intelligence Hub, is dedicated to developing a data pipeline that effectively analyzes and summarizes customer reviews on Amazon, enhancing decision-making for consumers.
+
 Codelab doc for use case 1
 
 https://codelabs-preview.appspot.com/?file_id=1hg2vigE2ZBsSJypLhKvQIbUi-ULu-gEsbGmKRHC-24Y#0
